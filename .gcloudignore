@@ -1,0 +1,7 @@
+.gcloudignore
+.git
+.gitignore
+.gitlab-ci.yml
+README.md
+docker-compose.yml
+*.md

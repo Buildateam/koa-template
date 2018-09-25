@@ -1,0 +1,7 @@
+{
+  "name": "MICROSERVICE NAME",
+  "version": "1.0.0",
+  "description": "### Available API Description",
+  "title": "MICROSERVICE NAME API",
+  "url" : "http://localhost:8080"
+}
